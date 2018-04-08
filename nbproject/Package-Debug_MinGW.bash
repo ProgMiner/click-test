@@ -6,8 +6,8 @@
 
 # Macros
 TOP=`pwd`
-CND_PLATFORM=CLang-Linux
-CND_CONF=Debug
+CND_PLATFORM=MinGW-Linux
+CND_CONF=Debug_MinGW
 CND_DISTDIR=dist
 CND_BUILDDIR=build
 CND_DLIB_EXT=so
