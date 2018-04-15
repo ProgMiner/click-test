@@ -1,3 +1,6 @@
+DEFINES += "\'PROJECT_NAME=\"ClickTest\"\'"
+DEFINES += "\'PROJECT_VERSION=\"v0.1\"\'"
+
 QT += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
